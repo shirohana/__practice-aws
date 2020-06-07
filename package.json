@@ -1,0 +1,9 @@
+{
+  "name": "design-a-database-for-a-mobile-app-with-dynamodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hana Shiro <shirohana0608@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {}
+}
