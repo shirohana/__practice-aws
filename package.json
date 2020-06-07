@@ -5,5 +5,7 @@
   "author": "Hana Shiro <shirohana0608@gmail.com>",
   "license": "MIT",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "aws-sdk": "^2.691.0"
+  }
 }
